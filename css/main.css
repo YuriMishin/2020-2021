@@ -1,3 +1,18 @@
-body{
-  background-image: url("img/cristal.jpg");
+.ficius{
+background-repeat: no-repeat;
+background-image: url("../img/cristal.jpg");
+}
+
+.profund{
+background-image:url("../img/profund.jpg");
+}
+
+.abisal{
+color:yellow;
+background-image:url("../img/abisal2.jpg");
+}
+
+img{
+  width: 50%;
+  height: 50%;
 }
