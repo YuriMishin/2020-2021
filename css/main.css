@@ -1,18 +1,26 @@
-.ficius{
-background-repeat: no-repeat;
-background-image: url("../img/cristal.jpg");
+.ficius {
+  background-repeat: no-repeat;
+  background-image: url("../img/cristal.jpg");
+  background-size: cover;
 }
 
-.profund{
-background-image:url("../img/profund.jpg");
+.profund {
+  background-image: url("../img/profund.jpg");
+background-size: cover;
 }
 
-.abisal{
-color:yellow;
-background-image:url("../img/abisal2.jpg");
+.abisal {
+  color: yellow;
+  background-image: url("../img/abisal.jpg");
+background-size: cover;
 }
 
-img{
+.articos {
+  background-image: url("../img/articos.jpg");
+background-size: cover;
+}
+
+img {
   width: 50%;
   height: 50%;
 }
